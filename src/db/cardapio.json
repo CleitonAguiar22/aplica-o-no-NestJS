@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "img": "img/Salmão Teryaki.png",
+    "favorito": false,
+    "estrelas": 5,
+    "nome": "Salmão Teryaki",
+    "valor": "20.00",
+    "descricao": "Filé de salmão grelhado com molho teriyaki, acompanhado de arroz e vegetais.",
+    "quantidade": 0
+  },
+  {
+    "id": 1,
+    "img": "img/Pão Indiano.png",
+    "favorito": false,
+    "estrelas": 5,
+    "nome": "Pão Indiano",
+    "valor": "20.00",
+    "descricao": "Pão típico da Índia, macio, ideal para acompanhar pratos com molho.",
+    "quantidade": 0
+  },
+  {
+    "id": 2,
+    "img": "img/Lamen.png",
+    "favorito": false,
+    "estrelas": 5,
+    "nome": "Lamen",
+    "valor": "20.00",
+    "descricao": "Macarrão japonês em caldo, acompanhado de carne, ovo e vegetais.",
+    "quantidade": 0
+  },
+  {
+    "id": 3,
+    "img": "img/cereal.png",
+    "favorito": false,
+    "estrelas": 5,
+    "nome": "Cereal",
+    "valor": "15.00",
+    "descricao": "Mistura de cereais crocantes e frutas deliciosas, servido com leite ou iogurte.",
+    "quantidade": 0
+  }
+]
